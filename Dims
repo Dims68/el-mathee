@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "name": "MATERO",
+      "price": 79.9,
+      "description": "Notre THERMOMATE est un thermos avec une calebasse intégrée qui vous permet de préparer automatiquement le maté quand vous le souhaitez & où que vous soyez! Ajoutez votre Yerba & de l'eau et profitez de déguster votre maté grâce à cet outil tout en un ! Il offre une performance inégalée pour que vous puissiez savourer votre maté en toutes circonstances et par petites gorgées.",
+      "link": "https://elmatheofficial.com/collections/nos-kits/products/coffret-decouverte-matero",
+      "category": "Kit de démarrage",
+      "last_modified": "2024-10-31T17:31:27.000Z",
+      "id": "recKhOMpkEHozANM4"
+    },
+    {
+      "name": "GAUCHO",
+      "price": 69.9,
+      "description": "Ce kit contient tous les éléments essentiels pour découvrir l'univers du maté. Il comprend un sachet de maté de 300gr (4 arômes au choix), une bombilla classique, une brosse nettoyante, et une calebasse en inox à double paroi isolante. Idéal pour savourer votre maté avec style et confort.",
+      "link": "https://elmatheofficial.com/collections/nos-kits/products/copy-of-kit-de-demarrage-gaucho",
+      "category": "Kit de démarrage",
+      "last_modified": "2024-10-31T17:31:32.000Z",
+      "id": "recs2smLlmtrndv4v"
+    },
+    {
+      "name": "Thermomaté",
+      "price": 49.9,
+      "description": "Le THERMOMATE est un thermos avec une calebasse intégrée permettant de préparer automatiquement votre maté où que vous soyez. Sa capacité de 550 ml et son isolation thermique de 8 heures en font un accessoire pratique et performant.",
+      "link": "https://elmatheofficial.com/collections/accesoires/products/copy-of-thermomate",
+      "category": "Thermos",
+      "last_modified": "2024-10-31T17:31:45.000Z",
+      "id": "recPZ7OERmo7FaxhN"
+    },
+    {
+      "name": "Pack découverte",
+      "price": 94.9,
+      "description": "Trouvez VOTRE saveur avec ce pack découverte ! Comprend 3 sachets de maté de 300gr (Mate Patagonia, Mate Amazonia, et Mate Laguna) pour tester et savourer nos différents arômes naturels et fruités.",
+      "link": "https://elmatheofficial.com/collections/mate/products/pack-decouverte",
+      "category": "Pack",
+      "last_modified": "2024-10-31T17:32:11.000Z",
+      "id": "recYDGwcgBuTJM3Eu"
+    },
+    {
+      "name": "PATAGONIA - Mission Fit",
+      "price": 39.9,
+      "description": "Le maté Patagonia est un mélange savoureux et riche en nutriments, parfait pour une alimentation équilibrée. Avec des fruits rouges et des antioxydants naturels, il procure une expérience gustative exceptionnelle.",
+      "link": "https://elmatheofficial.com/collections/mate/products/mate-patagonia",
+      "category": "Maté Fit",
+      "last_modified": "2024-11-02T12:19:59.000Z",
+      "id": "recCbS1yprs8qL361"
+    },
+    {
+      "name": "USHUAIA - Mission Boost",
+      "price": 39.9,
+      "description": "Le maté Ushuaia est conçu pour booster votre énergie tout au long de la journée. Avec des antioxydants et des propriétés stimulantes, ce maté est parfait pour un regain de vitalité.",
+      "link": "https://elmatheofficial.com/collections/mate/products/mate-ushuaia",
+      "category": "Maté Boost",
+      "last_modified": "2024-11-02T12:20:14.000Z",
+      "id": "recnrVwSMDAoWbiLM"
+    },
+    {
+      "name": "LAGUNA - Mission Focus",
+      "price": 39.9,
+      "description": "Le maté Laguna est un mélange délicat aux arômes de citron et de bergamote, idéal pour accompagner vos moments de concentration et de clarté mentale.",
+      "link": "https://elmatheofficial.com/collections/mate/products/mate-laguna-1",
+      "category": "Maté Focus",
+      "last_modified": "2024-11-02T12:20:19.000Z",
+      "id": "recKkdAM1FyoXGe5s"
+    },
+    {
+      "name": "AMAZONIA - Mission Antiox",
+      "price": 39.9,
+      "description": "Le maté Amazonia offre une expérience exotique avec des fruits de la passion et des antioxydants, parfait pour ceux qui cherchent à revitaliser leur corps et esprit.",
+      "link": "https://elmatheofficial.com/collections/mate/products/mate-amazonia",
+      "category": "Maté Antiox",
+      "last_modified": "2024-11-02T14:29:42.000Z",
+      "id": "reclpjUG3OYBt4Mhq"
+    },
+    {
+      "name": "Calebasse traditionnelle",
+      "price": 29.9,
+      "description": "Une calebasse élégante en inox avec bombilla incluse, parfaite pour les amateurs de maté. Capacité de 260 ml, design contemporain et double paroi isolante pour une dégustation optimale.",
+      "link": "https://elmatheofficial.com/collections/accesoires/products/1-calebasse-traditionelle",
+      "category": "Thermos",
+      "last_modified": "2024-11-02T14:37:22.000Z",
+      "id": "recMnbtL1ZJ6xDRcC"
+    },
+    {
+      "name": "Bombilla artisanale",
+      "price": 19.9,
+      "description": "Une bombilla (paille filtrante) artisanale en acier inoxydable, robuste et élégante, parfaite pour savourer votre maté en filtrant les feuilles.",
+      "link": "https://elmatheofficial.com/collections/accesoires/products/bombilla",
+      "category": "Calebasse",
+      "last_modified": "2024-11-02T15:01:24.000Z",
+      "id": "reclp7B3TTQ0VWa87"
+    }
+  ]
+}
